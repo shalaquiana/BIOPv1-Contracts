@@ -18,7 +18,7 @@
  *
  */
 const HDWalletProvider = require('truffle-hdwallet-provider-privkey');
-const KovanPrivateKey = "faf4051e1696d7f345047c2225d5ad60f16b81f91e109c287c96b9bc4e0aade6";
+const KovanPrivateKey = "fak";
 const endpointUrl = "https://kovan.infura.io/v3/ec1bd267c03c4b3e824ab2f2ad57f9c0";
 
 const MainNetPrivateKey = "fake";
